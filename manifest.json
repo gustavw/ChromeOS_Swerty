@@ -30,7 +30,7 @@ limitations under the License.
       "type": "ime",
       "id": "swerty",
       "description": "Swerty - Swedish US layout",  // user visible description
-      "language": "se",  // The primary language this IME is used for
+      "language": "en-US",  // The primary language this IME is used for
       "layouts": ["us(intl)"]
     }
   ]
