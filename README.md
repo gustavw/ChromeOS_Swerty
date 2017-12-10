@@ -10,8 +10,10 @@ http://johanegustafsson.net/projects/swerty/
 ##### Remap tutorial / inspiration
 https://dgopstein.github.io/articles/chrome-keymapper/  
 https://github.com/google/extra-keyboards-for-chrome-os  
-##### API Resource
-https://developer.chrome.com/extensions/input_ime  
+##### API resource
+https://developer.chrome.com/extensions/input_ime
+##### Locale resource
+https://developer.chrome.com/webstore/i18n#localeTable  
 ## Installation
 1. Go to chrome://extensions.
 2. Check Developer mode
