@@ -33,7 +33,7 @@ required.
 - These extensions are not allowed on the login/lock screen.
 - These extensions are not allowed on password fields.  
 ## Extra
-Layouts that can be used in manifest.json to this date;
+Layouts that can be used in manifest.json to this date;  
   "be",
   "br",
   "ca",
