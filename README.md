@@ -22,8 +22,9 @@ https://developer.chrome.com/webstore/i18n#localeTable
 enable.
 5. Logout and then login again. (This may not be necessary.)
 6. Go to chrome://settings/languages.
-7. Select Swerty keyboard layout from the list.
-8. Optionally, remove any keyboard layouts or input methods that are no longer
+7. Make sure you have added swedish as a language
+8. Select Swerty keyboard layout from the list.
+9. Optionally, remove any keyboard layouts or input methods that are no longer
 required.  
 ## How to Use
 1. Press Ctrl + Shift + Space to cycle through the enabled keyboard languages.
